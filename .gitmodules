@@ -4,6 +4,9 @@
 [submodule "bv/bvtck-porting"]
 	path = bv/bvtck-porting
 	url = https://github.com/payara/bvtck-porting
+
+
+
 [submodule "di/ditck-porting"]
 	path = di/ditck-porting
-	url = https://github.com/payara/ditck-porting
+	url = https://github.com/payara/ditck-porting.git
